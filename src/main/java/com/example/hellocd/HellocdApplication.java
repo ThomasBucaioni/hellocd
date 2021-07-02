@@ -21,3 +21,5 @@ public class HellocdApplication {
 	}
 
 }
+
+// Test conflict developper n°2
