@@ -22,4 +22,8 @@ public class HellocdApplication {
 
 }
 
+<<<<<<< HEAD
 // Test confict developer n°1
+=======
+// Test conflict developper n°2
+>>>>>>> 29aeaa17ba904627dacc8acdb43ea153489e7384
